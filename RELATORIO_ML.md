@@ -3,7 +3,8 @@
 
 **Global Solution FIAP 2026.2 — CitizenTech**  
 **Disciplina:** Inteligência Artificial & Machine Learning  
-**Algoritmo:** Random Forest Classifier
+**Algoritmo:** Random Forest Classifier  
+**Vídeo de apresentação:** https://www.youtube.com/watch?v=aoErw4pQP54
 
 ## 1. Problema e objetivo
 

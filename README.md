@@ -13,6 +13,8 @@ Disciplina: Inteligência Artificial & Machine Learning
 | Kauê Pires | RM554403 |
 | Higor Batista | RM558907 |
 
+**Vídeo de IA & Machine Learning:** https://www.youtube.com/watch?v=aoErw4pQP54
+
 
 ## Sobre o projeto
 
